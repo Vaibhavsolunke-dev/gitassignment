@@ -1,6 +1,7 @@
 # My Practice Project
 
 A beginner project created to practice Git and GitHub repository setup. my name is Vaibhav
+A beginner project created to practice Git and GitHub repository setup. i have completed half project
 
 ## Description
 
