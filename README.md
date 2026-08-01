@@ -1,6 +1,6 @@
 # My Practice Project
 
-A beginner project created to practice Git and GitHub repository setup.
+A beginner project created to practice Git and GitHub repository setup. i have completed half project
 
 ## Description
 
