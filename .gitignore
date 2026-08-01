@@ -1,0 +1,14 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Environment variables / secret values
+.env
+.env.*
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
