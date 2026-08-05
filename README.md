@@ -19,3 +19,29 @@ This repository was created as part of a Git and GitHub homework assignment. It 
 
 Author: Vaibhav Solunke
 i have created new branch named develop
+Description: this is my practice project
+Folder Structure
+Git Workflow
+Commands Used: git clone
+git status
+git add
+git commit
+git push
+git pull
+git fetch
+git branch
+git switch
+git merge
+git log --oneline
+git diff
+git stash
+git stash list
+git stash apply
+git tag
+git show
+git reflog
+git reset
+git revert
+Branch Strategy
+Screenshots
+Learning Outcomes
